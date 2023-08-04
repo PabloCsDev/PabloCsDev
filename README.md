@@ -9,7 +9,7 @@
 
 
 
-## Tecnologias que eu uso
+## Tecnologias que eu uso diariamente:
 <div style="dispaly: inline_block"><br/>
     <img align="center" all="JavaScript" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
     <img align="center" all="HTML5" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
