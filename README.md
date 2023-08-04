@@ -1,12 +1,15 @@
 
 ### Olá eu sou o Pablo Carvalho 🦇
 
-[![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](www.linkedin.com/in/pablo-carvalho-140255260)
+[![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/pablo-carvalho-140255260/)
 [![GMAIL](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:devpablocarvalho@gmail.com)
 
-![Pablo GitHub stats](https://github-readme-stats.vercel.app/api?username=PabloCsDev&show_icons=true&theme=tokyonight)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=PabloCsDev&show_icons=true&theme=tokyonight&hide_rank=true)
 
-## Tecnologias que eu uso no meu dia 
+
+
+
+## Tecnologias que eu uso
 
 <div style="dispaly: inline_block"><br/>
     <img align="center" all="JavaScript" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
@@ -20,4 +23,4 @@
 
 </div><br/>
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=PabloCsDev&layout=compact)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=PabloCsDev&layout=donut)
