@@ -7,10 +7,9 @@
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=PabloCsDev&show_icons=true&theme=tokyonight&hide_rank=true)
 
 
-sf
+
 
 ## Tecnologias que eu uso
-
 <div style="dispaly: inline_block"><br/>
     <img align="center" all="JavaScript" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
     <img align="center" all="HTML5" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
