@@ -17,4 +17,7 @@
     <img align="center" all="FLUTTER" src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white"/>
       <img align="center" all="LINUX" src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black"/>
       <img align="center" all="GIT" src="https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white"/>
-</div>
+
+</div><br/>
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=PabloCsDev&layout=compact)
