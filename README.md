@@ -21,7 +21,6 @@
     
 ## Tecnologias que tenho interresse em me qualificar:
 <img align="center" all="ANGULAR" src="https://img.shields.io/badge/Angular-000?style=for-the-badge&logo=angular&logoColor=C3002F"/>
-<img align="center" all="REACT" src="https://img.shields.io/badge/React-000?style=for-the-badge&logo=react"/>
 <img align="center" all="JAVA" src="https://img.shields.io/badge/Java-black?logo=java&style=for-the-badge"/>
 <img align="center" all="KOTLIN" src="https://img.shields.io/badge/Kotlin-black?logo=kotlin&style=for-the-badge"/>
 <img align="center" alt="AWS" src="https://img.shields.io/badge/AWS-black?logo=amazon-aws&style=for-the-badge"/>
