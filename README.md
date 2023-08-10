@@ -1,6 +1,9 @@
 
 ## Pablo Carvalho 🦇
 
+![Luffy de One Piece](https://media.tenor.com/Nt6Zju-KjTsAAAAC/luffy-one-piece.gif)
+
+
 [![Linkedin](https://img.shields.io/badge/LinkedIn-black?logo=linkedin&style=for-the-badge)](https://www.linkedin.com/in/pablo-carvalho-140255260/)
 [![GMAIL](https://img.shields.io/badge/Gmail-black?logo=gmail&style=for-the-badge)](mailto:devpablocarvalho@gmail.com)
 
@@ -8,9 +11,6 @@
 
 
 
-
-
-## Tecnologias que uso diariamente:
 <div style="dispaly: inline_block"><br/>
     <img align="center" all="JavaScript" src="https://img.shields.io/badge/JavaScript-000?style=for-the-badge&logo=javascript"/>
     <img align="center" all="HTML5" src="https://img.shields.io/badge/HTML5-000?style=for-the-badge&logo=html5"/>
@@ -19,10 +19,9 @@
     <img align="center" alt="GIT" src="https://img.shields.io/badge/Git-000?style=for-the-badge&logo=git&logoColor=E94D5F"/>
      
     
-## Tecnologias que tenho interresse em me qualificar:
+
 <img align="center" all="ANGULAR" src="https://img.shields.io/badge/Angular-000?style=for-the-badge&logo=angular&logoColor=C3002F"/>
 <img align="center" all="JAVA" src="https://img.shields.io/badge/Java-black?logo=java&style=for-the-badge"/>
-<img align="center" all="KOTLIN" src="https://img.shields.io/badge/Kotlin-black?logo=kotlin&style=for-the-badge"/>
 <img align="center" alt="AWS" src="https://img.shields.io/badge/AWS-black?logo=amazon-aws&style=for-the-badge"/>
 </div><br/>
 
