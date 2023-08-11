@@ -13,10 +13,11 @@
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=PabloCsDev&show_icons=true&theme=highcontrast&hide_rank=true&hide_title=true)
 
+### 📚 Estou explorando as tecnologias:
 <div style="display: flex; justify-content: center;">
     <img align="center" alt="JAVA" src="https://inapp.com/wp-content/uploads/elementor/thumbs/java-01-q05vr60j45kxbd4o8x4um7udsl3n06xd8ydqkcvjh8.png" width="68" height="68"/>
     <img align="center" alt="ANGULAR" src="https://angular.io/assets/images/logos/angular/angular.svg" width="65" height="65"/> 
-    <img align="center" alt="AWS" src="https://cdn.iconscout.com/icon/free/png-512/free-aws-5285204-4406641.png?f=avif&w=256" width="70" height="70"/>
+    <img align="center" alt="AWS" src="https://static-00.iconduck.com/assets.00/aws-icon-512x512-4v2f55fn.png" width="65" height="65"/>
     <img align="center" alt="LINUX" src="https://camo.githubusercontent.com/5827f82f2c2d9c5bad33de64e073659d1a57032b31009b8127189be6876916d4/68747470733a2f2f63646e2e6a7364656c6976722e6e65742f67682f64657669636f6e732f64657669636f6e2f69636f6e732f6c696e75782f6c696e75782d6f726967696e616c2e737667" width="60" height="60"/> 
     <img align="center" alt="GIT" src="https://git-scm.com/images/logos/downloads/Git-Icon-1788C.png" width="60" height="60"/> 
     &nbsp; <!-- Espaço em branco para separação visual -->
