@@ -16,7 +16,7 @@
     <img alt="ANGULAR" src="https://angular.io/assets/images/logos/angular/angular.svg" width="60" height="60"/> 
     <img alt="LINUX" src="https://camo.githubusercontent.com/5827f82f2c2d9c5bad33de64e073659d1a57032b31009b8127189be6876916d4/68747470733a2f2f63646e2e6a7364656c6976722e6e65742f67682f64657669636f6e732f64657669636f6e2f69636f6e732f6c696e75782f6c696e75782d6f726967696e616c2e737667" width="60" height="60"/>
     <img alt="GIT" src="https://git-scm.com/images/logos/downloads/Git-Icon-1788C.png" width="60" height="60"/> 
-    <img alt="AWS" src="https://static-00.iconduck.com/assets.00/aws-icon-512x512-4v2f55fn.png" width=70" height="70"/> 
+    <img alt="AWS" src="https://static-00.iconduck.com/assets.00/aws-icon-512x512-4v2f55fn.png" width=60" height="60"/> 
 </div>
 <div style="display: flex; justify-content: space-between; align-items: center; width: 230px;">
     <img alt="JAVASCRIPT" src="https://upload.wikimedia.org/wikipedia/commons/6/6a/JavaScript-logo.png" width="60" height="60"/>
