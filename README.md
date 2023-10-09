@@ -3,7 +3,7 @@
 [![Linkedin](https://img.shields.io/badge/LinkedIn-black?logo=linkedin&style=for-the-badge)](https://www.linkedin.com/in/pablo-carvalho-140255260/)
 [![GMAIL](https://img.shields.io/badge/Gmail-black?logo=gmail&style=for-the-badge)](mailto:devpablocarvalho@gmail.com)
 #### 👨‍💻 Olá, sou Pablo Carvalho <br>
-#### 💼 Interesses: Desenvolvimento Back End e Segurança Cibernética
+#### 💼 Interesses: Desenvolvimento Back End e Segurança Cibernética (White Hat)
 
 #### 💡 "O único limite para nosso aprendizado é a nossa própria disposição para explorar o desconhecido." - Alexander Graham Bell.
 
