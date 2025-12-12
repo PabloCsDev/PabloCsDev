@@ -1,53 +1,70 @@
-👋 Pablo Carvalho | Desenvolvedor Back-End
-https://img.shields.io/badge/LinkedIn-000000?style=for-the-badge&logo=linkedin
-https://img.shields.io/badge/Gmail-000000?style=for-the-badge&logo=gmail
-https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github
+## 👋 Bem-vindo ao meu perfil!
 
-👨‍💻 Sobre Mim
-Desenvolvedor Back-End focado em Java, Spring Boot e APIs REST. Busco construir soluções escaláveis aplicando SOLID, Clean Code, arquitetura em camadas e segurança com JWT.
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-000?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/pablo-carvalho-140255260/)
+[![Gmail](https://img.shields.io/badge/Gmail-000?style=for-the-badge&logo=gmail)](mailto:devpablocarvalho@gmail.com)
 
-Meu objetivo: me tornar um desenvolvedor sólido, com código limpo, arquitetura bem pensada e entregas que realmente resolvem problemas.
+---
 
-Procuro sempre entender o porquê das coisas — não apenas o como.
+## 👨‍💻 Sobre mim
+Sou Pablo Carvalho, desenvolvedor em evolução com foco em **Back-End Java** e fundamentos sólidos em **arquitetura de APIs**, segurança e boas práticas de código.  
+Meu objetivo é criar soluções escaláveis, seguras e fáceis de manter — sempre aplicando Clean Code, SOLID e padrões modernos de desenvolvimento.
 
-🚀 Tecnologias
-Back-End:
-https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white
-https://img.shields.io/badge/Spring%2520Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white
-https://img.shields.io/badge/Spring_Security-6DB33F?style=for-the-badge&logo=spring-security&logoColor=white
+---
 
-Banco de Dados:
-https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white
-https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white
+## 🚀 Stack Principal (Back-End & DevOps)
 
-Ferramentas:
-https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white
-https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white
-https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black
-https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white
+<div style="display: flex; gap: 20px; flex-wrap: wrap; align-items: center;">
 
-Front-End:
-https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black
-https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white
-https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white
+  <!-- Java -->
+  <img alt="Java" src="https://inapp.com/wp-content/uploads/elementor/thumbs/java-01-q05vr60j45kxbd4o8x4um7udsl3n06xd8ydqkcvjh8.png" width="70" height="70"/>
 
-📊 Linguagens Mais Usadas
-https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=PabloCsDev&layout=compact&theme=highcontrast
+  <!-- Spring Boot -->
+  <img alt="Spring Boot" src="https://spring.io/img/spring-logo.png" width="70" height="70"/>
 
-🔥 Foco Atual
-APIs completas com Java + Spring Boot
+  <!-- Docker -->
+  <img alt="Docker" src="https://www.docker.com/wp-content/uploads/2022/03/Moby-logo.png" width="80" height="70"/>
 
-Autenticação segura (JWT + Spring Security)
+  <!-- Linux -->
+  <img alt="Linux" src="https://upload.wikimedia.org/wikipedia/commons/3/35/Tux.svg" width="70" height="70"/>
 
-Projetos com integrações reais (MySQL, PostgreSQL)
+  <!-- Git -->
+  <img alt="Git" src="https://git-scm.com/images/logos/downloads/Git-Icon-1788C.png" width="70" height="70"/>
 
-Ambiente padronizado com Docker
+</div>
 
-Domínio do ecossistema Spring
+---
 
-📫 Contato
-Email: devpablocarvalho@gmail.com
-LinkedIn: www.linkedin.com/in/pablo-carvalho-140255260
-GitHub: github.com/PabloCsDev
+## 🌐 Front-end de Apoio (Base da Web)
 
-"Código não é só sobre lógica. É sobre clareza, propósito e impacto."
+<div style="display: flex; gap: 20px; flex-wrap: wrap; align-items: center;">
+
+  <img alt="JavaScript" src="https://upload.wikimedia.org/wikipedia/commons/6/6a/JavaScript-logo.png" width="55" height="55"/>
+  <img alt="HTML5" src="https://cdn4.iconfinder.com/data/icons/iconsimple-programming/512/html-512.png" width="55" height="55"/>
+  <img alt="CSS3" src="https://cdn4.iconfinder.com/data/icons/iconsimple-programming/512/css-512.png" width="55" height="55"/>
+
+</div>
+
+---
+
+## 📌 O que estou desenvolvendo no momento
+- APIs REST com **Spring Boot**  
+- Autenticação com **Spring Security + JWT**  
+- Ambientes containerizados com **Docker**  
+- Deploy e serviços na **AWS** (S3, EC2 e fundamentos)  
+- Modelagem de banco de dados com SQL  
+- Projetos práticos para fortalecer meu GitHub  
+
+---
+
+## 🧠 Valores e mentalidade como dev
+- Código limpo e legível > código complicado  
+- Aprendizado contínuo como prioridade  
+- Segurança desde o início do projeto  
+- Entregar valor real, não só features  
+- Evoluir sempre, um commit por vez  
+
+---
+
+## 📫 Vamos nos conectar?
+Sinta-se à vontade para entrar em contato ou acompanhar meus projetos no GitHub.  
+Estou sempre aberto a colaborar, aprender e construir soluções tecnológicas que fazem a diferença.
