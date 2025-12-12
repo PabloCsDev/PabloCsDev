@@ -24,15 +24,15 @@ Meu objetivo é criar soluções escaláveis, seguras e fáceis de manter — se
 
   <!-- Docker -->
   <img alt="Docker" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="80" height="70"/>
+ 
+  <!-- Angular -->
+  <img alt="Angular" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original.svg" width="70" height="70"/>
 
   <!-- Linux -->
   <img alt="Linux" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="70" height="70"/>
 
   <!-- Git -->
   <img alt="Git" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="70" height="70"/>
-
-  <!-- Angular -->
-  <img alt="Angular" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original.svg" width="70" height="70"/>
 
 </div>
 
