@@ -1,87 +1,53 @@
-# 👋 Bem-vindo ao meu espaço
+👋 Pablo Carvalho | Desenvolvedor Back-End
+https://img.shields.io/badge/LinkedIn-000000?style=for-the-badge&logo=linkedin
+https://img.shields.io/badge/Gmail-000000?style=for-the-badge&logo=gmail
+https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-000000?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/pablo-carvalho-140255260/)
-[![Gmail](https://img.shields.io/badge/Gmail-000000?style=for-the-badge&logo=gmail)](mailto:devpablocarvalho@gmail.com)
+👨‍💻 Sobre Mim
+Desenvolvedor Back-End focado em Java, Spring Boot e APIs REST. Busco construir soluções escaláveis aplicando SOLID, Clean Code, arquitetura em camadas e segurança com JWT.
 
----
+Meu objetivo: me tornar um desenvolvedor sólido, com código limpo, arquitetura bem pensada e entregas que realmente resolvem problemas.
 
-## 👨‍💻 Sobre mim
+Procuro sempre entender o porquê das coisas — não apenas o como.
 
-Sou Pablo Carvalho, desenvolvedor Back-End em formação com foco em Java, Spring Boot, APIs REST e integração com bancos de dados.
-Busco construir soluções escaláveis aplicando SOLID, Clean Code, arquitetura em camadas e segurança com JWT.
-Tenho compromisso com aprendizado contínuo e evolução técnica para atuar de forma eficiente em ambientes reais de desenvolvimento.
+🚀 Tecnologias
+Back-End:
+https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white
+https://img.shields.io/badge/Spring%2520Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white
+https://img.shields.io/badge/Spring_Security-6DB33F?style=for-the-badge&logo=spring-security&logoColor=white
 
-Hoje meu objetivo é claro:  
-**me tornar um desenvolvedor sólido, com código limpo, arquitetura bem pensada e entregas que realmente resolvem problemas.**
+Banco de Dados:
+https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white
+https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white
 
-Procuro sempre entender o *porquê* das coisas — não apenas o *como*.  
+Ferramentas:
+https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white
+https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white
+https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black
+https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white
 
----
+Front-End:
+https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black
+https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white
+https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white
 
-## 🚀 Minha missão como dev
+📊 Linguagens Mais Usadas
+https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=PabloCsDev&layout=compact&theme=highcontrast
 
-Construir soluções seguras, escaláveis e de fácil manutenção, aplicando boas práticas e evoluindo continuamente.
-Atualmente tenho foco em:
+🔥 Foco Atual
+APIs completas com Java + Spring Boot
 
-Desenvolvimento Back-End com Java
+Autenticação segura (JWT + Spring Security)
 
-Criação de APIs com Spring Boot
+Projetos com integrações reais (MySQL, PostgreSQL)
 
-Autenticação e segurança (JWT, Spring Security)
+Ambiente padronizado com Docker
 
-SQL, modelagem e integração com bancos de dados
+Domínio do ecossistema Spring
 
-Princípios de qualidade (SOLID, Clean Code)
+📫 Contato
+Email: devpablocarvalho@gmail.com
+LinkedIn: www.linkedin.com/in/pablo-carvalho-140255260
+GitHub: github.com/PabloCsDev
 
-Padronização de ambiente com Docker
-
-Ao mesmo tempo, mantenho abertura para aprender novas tecnologias e ferramentas que agreguem ao meu crescimento como desenvolvedor e às necessidades dos projetos.
-
----
-
-## 📊 Minhas linguagens mais usadas
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=PabloCsDev&theme=tokyonight&layout=compact&hide_border=true)
-
----
-
-## 🛠️ Tecnologias que fazem parte da minha jornada
-
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
-![Spring Boot](https://img.shields.io/badge/Spring%20Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-
----
-
-## 🔥 O que estou construindo agora
-
-- APIs completas com Java + Spring Boot  
-- Autenticação segura (JWT + Security)  
-- Projetos com integrações reais (MySQL, PostgreSQL)  
-- Aplicações com React consumindo back-end próprio  
-- Ambiente padronizado com Docker  
-
-Minha prioridade no momento é **dominar por completo o ecossistema Spring**.
-
----
-
-## ✨ Um pouco da minha visão
-
-> "Código não é só sobre lógica.  
-> É sobre clareza, propósito e impacto."
-
-Trabalho diariamente para me tornar um desenvolvedor que entrega **valor real**, não apenas funcionalidades.
-
----
-
-## 📫 Como falar comigo
-
-Se quiser trocar ideia sobre tecnologia, oportunidades ou projetos, estou por aqui:
-
-📩 **Email:** devpablocarvalho@gmail.com  
-🔗 **LinkedIn:** www.linkedin.com/in/pablo-carvalho-140255260  
+"Código não é só sobre lógica. É sobre clareza, propósito e impacto."
