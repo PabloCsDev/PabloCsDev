@@ -9,6 +9,7 @@
 Sou Pablo Carvalho, desenvolvedor em evolução com foco em **Back-End Java** e fundamentos sólidos em **arquitetura de APIs**, segurança e boas práticas de código.  
 Meu objetivo é criar soluções escaláveis, seguras e fáceis de manter — sempre aplicando Clean Code, SOLID e padrões modernos de desenvolvimento.
 
+
 ---
 
 ## 🚀 Stack Principal (Back-End & DevOps)
@@ -16,21 +17,28 @@ Meu objetivo é criar soluções escaláveis, seguras e fáceis de manter — se
 <div style="display: flex; gap: 20px; flex-wrap: wrap; align-items: center;">
 
   <!-- Java -->
-  <img alt="Java" src="https://inapp.com/wp-content/uploads/elementor/thumbs/java-01-q05vr60j45kxbd4o8x4um7udsl3n06xd8ydqkcvjh8.png" width="70" height="70"/>
+  <img alt="Java" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="70" height="70"/>
 
   <!-- Spring Boot -->
-  <img alt="Spring Boot" src="https://spring.io/img/spring-logo.png" width="70" height="70"/>
+  <img alt="Spring Boot" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" width="70" height="70"/>
 
   <!-- Docker -->
-  <img alt="Docker" src="https://www.docker.com/wp-content/uploads/2022/03/Moby-logo.png" width="80" height="70"/>
+  <img alt="Docker" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="80" height="70"/>
+
+  <!-- AWS -->
+  <img alt="AWS" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original.svg" width="70" height="70"/>
 
   <!-- Linux -->
-  <img alt="Linux" src="https://upload.wikimedia.org/wikipedia/commons/3/35/Tux.svg" width="70" height="70"/>
+  <img alt="Linux" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="70" height="70"/>
 
   <!-- Git -->
-  <img alt="Git" src="https://git-scm.com/images/logos/downloads/Git-Icon-1788C.png" width="70" height="70"/>
+  <img alt="Git" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="70" height="70"/>
+
+  <!-- Angular -->
+  <img alt="Angular" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original.svg" width="70" height="70"/>
 
 </div>
+
 
 ---
 
@@ -47,12 +55,14 @@ Meu objetivo é criar soluções escaláveis, seguras e fáceis de manter — se
 ---
 
 ## 📌 O que estou desenvolvendo no momento
-- APIs REST com **Spring Boot**  
-- Autenticação com **Spring Security + JWT**  
-- Ambientes containerizados com **Docker**  
-- Deploy e serviços na **AWS** (S3, EC2 e fundamentos)  
-- Modelagem de banco de dados com SQL  
-- Projetos práticos para fortalecer meu GitHub  
+-Construir soluções seguras, escaláveis e de fácil manutenção, aplicando boas práticas e evoluindo continuamente.
+-Desenvolvimento Back-End com Java
+-Criação de APIs com Spring Boot
+-Autenticação e segurança (JWT, Spring Security)
+-SQL, modelagem e integração com bancos de dados
+-Princípios de qualidade (SOLID, Clean Code)
+-Padronização de ambiente com Docker
+-Ao mesmo tempo, mantenho abertura para aprender novas tecnologias e ferramentas que agreguem ao meu crescimento como desenvolvedor e às necessidades dos projetos. 
 
 ---
 
