@@ -25,9 +25,6 @@ Meu objetivo é criar soluções escaláveis, seguras e fáceis de manter — se
   <!-- Docker -->
   <img alt="Docker" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="80" height="70"/>
 
-  <!-- AWS -->
-  <img alt="AWS" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original.svg" width="70" height="70"/>
-
   <!-- Linux -->
   <img alt="Linux" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="70" height="70"/>
 
@@ -54,15 +51,24 @@ Meu objetivo é criar soluções escaláveis, seguras e fáceis de manter — se
 
 ---
 
-## 📌 O que estou desenvolvendo no momento
--Construir soluções seguras, escaláveis e de fácil manutenção, aplicando boas práticas e evoluindo continuamente.
--Desenvolvimento Back-End com Java
--Criação de APIs com Spring Boot
--Autenticação e segurança (JWT, Spring Security)
--SQL, modelagem e integração com bancos de dados
--Princípios de qualidade (SOLID, Clean Code)
--Padronização de ambiente com Docker
--Ao mesmo tempo, mantenho abertura para aprender novas tecnologias e ferramentas que agreguem ao meu crescimento como desenvolvedor e às necessidades dos projetos. 
+### 📌 O que estou desenvolvendo no momento
+- Construção de soluções **seguras, escaláveis e de fácil manutenção**.
+- Desenvolvimento Back-End com **Java**.
+- Criação de **APIs RESTful** com Spring Boot.
+- Implementação de autenticação e segurança (**JWT**, Spring Security).
+- **SQL**, modelagem e integração com bancos de dados.
+- Aplicação de princípios **SOLID** e **Clean Code**.
+- Padronização de ambiente com **Docker**.
+- Abertura contínua para aprender novas tecnologias conforme a demanda dos projetos.
+
+---
+
+### 🧠 Valores e mentalidade como dev
+- **Código limpo e legível** antes de tudo.
+- Aprendizado contínuo como prioridade.
+- **Segurança desde o início** no desenvolvimento.
+- Foco em **entregar valor real**, não apenas features.
+- Evolução constante, **um commit por vez**.
 
 ---
 
