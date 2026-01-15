@@ -69,16 +69,7 @@ Meu objetivo é criar soluções escaláveis, seguras e fáceis de manter — se
 - **Segurança desde o início** no desenvolvimento.
 - Foco em **entregar valor real**, não apenas features.
 - Evolução constante, **um commit por vez**.
-
----
-
-## 🧠 Valores e mentalidade como dev
-- Código limpo e legível > código complicado  
-- Aprendizado contínuo como prioridade  
-- Segurança desde o início do projeto  
-- Entregar valor real, não só features  
-- Evoluir sempre, um commit por vez  
-
+- 
 ---
 
 ## 📫 Vamos nos conectar?
